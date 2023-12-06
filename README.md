@@ -11,6 +11,12 @@
 - 📋 **Documentation**: Check out additional documentation for a deeper understanding of the project.
 - 📹 **Media**: Find images and videos showcasing NerdBot Poseidon in action during the RoboChallenge [@andreip851](https://www.instagram.com/andreip851/).
 
+## Future Updates
+- Adding EDF for downforce
+- New faster motors with better gearbox
+- Improved algorithm
+- Improved design and building custom PCB
+
 🚗🌟 **Let the robotics adventure continue! See you in 2024**
 
 ## 📜 License
