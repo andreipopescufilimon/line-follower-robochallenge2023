@@ -10,3 +10,8 @@
 - 🤖 **Source Code**: Explore the well-documented codebase that powered NerdBot Poseidon's success.
 - 📋 **Documentation**: Check out additional documentation for a deeper understanding of the project.
 - 📹 **Media**: Find images and videos showcasing NerdBot Poseidon in action during the RoboChallenge [@andreip851](https://www.instagram.com/andreip851/).
+
+🚗🌟 **Let the robotics adventure continue! See you in 2024**
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/andreipopescufilimon/line-follower-robochallenge2023/blob/main/LICENSE) file for details.
