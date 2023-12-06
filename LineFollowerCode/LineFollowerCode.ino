@@ -1,5 +1,6 @@
 /*
-*  Fast Line Followe Code
+*  Fast Line Followe Code - NerdBot Poseidon
+*  Competing in Robochallenge 2023
 *
 *  Sum off all errors or only on last six errors for KI.
 *  
