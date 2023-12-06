@@ -17,7 +17,7 @@
 - Improved algorithm
 - Improved design and building custom PCB
 
-🚗🌟 **Let the robotics adventure continue! See you in 2024**
+## 🚗🌟 **Let the robotics adventure continue! See you in 2024**
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/andreipopescufilimon/line-follower-robochallenge2023/blob/main/LICENSE) file for details.
